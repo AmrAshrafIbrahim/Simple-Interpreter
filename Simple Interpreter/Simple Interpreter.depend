@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1592259937 source:c:\users\ahmed\onedrive\desktop\simple interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1592336107 source:d:\codeblocks\simple interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1592340350 source:d:\codeblocks\simple interpreter iii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1592345601 source:f:\ssp term 4\data structuers\finalproject\simple interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
